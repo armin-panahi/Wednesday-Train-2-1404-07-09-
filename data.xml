@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+  <user id="1">
+    <fullName>علی رضایی</fullName>
+    <username>alireza</username>
+    <password>P@ssw0rd1</password>
+  </user>
+
+  <user id="2">
+    <fullName>سارا محمدی</fullName>
+    <username>sara.m</username>
+    <password>secretSara</password>
+  </user>
+
+  <user id="3">
+    <fullName>محمد حسینی</fullName>
+    <username>m.hosseini</username>
+    <password>MHS2025!</password>
+  </user>
+
+</users>
+
+
+<!-- Finish -->

@@ -1,0 +1,37 @@
+/* Ajax - Lesson 5 */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    margin-left: 3rem;
+    padding: 0.3rem;
+    border: none;
+    border-radius: 100%;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.2);
+    background-color: greenyellow;
+}
+
+table {
+    margin: 3rem 0 0 3rem;
+    border: 5px outset black;
+    padding: 0.5rem;
+}
+
+
+table th:nth-child(odd) {
+    background-color: rgb(240, 255, 122);
+}
+
+table th:nth-child(even) {
+    background-color: rgb(134, 235, 97);
+}
